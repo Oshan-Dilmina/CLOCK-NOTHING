@@ -1,1 +1,1 @@
-<h1>JUST FOR TIME</H1>
+<h1>JUST FOR <s>FUN</s> TIME</H1>
